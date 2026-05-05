@@ -1,3 +1,4 @@
 "notebooks/*.fits" 
 "data/raw/" 
 "notebooks/DR17_MPA_JHU.fits" 
+"notebooks/mpa_jhu_filtrado.csv" 
